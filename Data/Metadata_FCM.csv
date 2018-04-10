@@ -1,0 +1,90 @@
+Sample;Pres_A;Pres_B;Treatment;Time;Stain;Replicate
+t0_A_A-B_SGPI_repl1.fcs;YES;NO;B;24 h;SGPI;1
+t0_A_A-B_SGPI_repl2.fcs;YES;NO;B;24 h;SGPI;2
+t0_A_A-B_SGPI_repl3.fcs;YES;NO;B;24 h;SGPI;3
+t0_A_A-B_SG_repl1.fcs;YES;NO;B;24 h;SG;1
+t0_A_A-B_SG_repl2.fcs;YES;NO;B;24 h;SG;2
+t0_A_A-B_SG_repl3.fcs;YES;NO;B;24 h;SG;3
+t0_A_A-fresh_SGPI_repl1.fcs;YES;NO;fresh medium;24 h;SGPI;1
+t0_A_A-fresh_SGPI_repl2.fcs;YES;NO;fresh medium;24 h;SGPI;2
+t0_A_A-fresh_SGPI_repl3.fcs;YES;NO;fresh medium;24 h;SGPI;3
+t0_A_A-fresh_SG_repl1.fcs;YES;NO;fresh medium;24 h;SG;1
+t0_A_A-fresh_SG_repl2.fcs;YES;NO;fresh medium;24 h;SG;2
+t0_A_A-fresh_SG_repl3.fcs;YES;NO;fresh medium;24 h;SG;3
+t0_AB_AB-fresh_SGPI_repl1.fcs;YES;YES;fresh medium;24 h;SGPI;1
+t0_AB_AB-fresh_SGPI_repl2.fcs;YES;YES;fresh medium;24 h;SGPI;2
+t0_AB_AB-fresh_SGPI_repl3.fcs;YES;YES;fresh medium;24 h;SGPI;3
+t0_AB_AB-fresh_SG_repl1.fcs;YES;YES;fresh medium;24 h;SG;1
+t0_AB_AB-fresh_SG_repl2.fcs;YES;YES;fresh medium;24 h;SG;2
+t0_AB_AB-fresh_SG_repl3.fcs;YES;YES;fresh medium;24 h;SG;3
+t0_B_A-B_SGPI_repl1.fcs;NO;YES;A;24 h;SGPI;1
+t0_B_A-B_SGPI_repl2.fcs;NO;YES;A;24 h;SGPI;2
+t0_B_A-B_SGPI_repl3.fcs;NO;YES;A;24 h;SGPI;3
+t0_B_A-B_SG_repl1.fcs;NO;YES;A;24 h;SG;1
+t0_B_A-B_SG_repl2.fcs;NO;YES;A;24 h;SG;2
+t0_B_A-B_SG_repl3.fcs;NO;YES;A;24 h;SG;3
+t0_B_B-fresh_SGPI_repl1.fcs;NO;YES;fresh medium;24 h;SGPI;1
+t0_B_B-fresh_SGPI_repl2.fcs;NO;YES;fresh medium;24 h;SGPI;2
+t0_B_B-fresh_SGPI_repl3.fcs;NO;YES;fresh medium;24 h;SGPI;3
+t0_B_B-fresh_SG_repl1.fcs;NO;YES;fresh medium;24 h;SG;1
+t0_B_B-fresh_SG_repl2.fcs;NO;YES;fresh medium;24 h;SG;2
+t0_B_B-fresh_SG_repl3.fcs;NO;YES;fresh medium;24 h;SG;3
+t1_A_A-B_SGPI_repl1.fcs;YES;NO;B;48 h;SGPI;1
+t1_A_A-B_SGPI_repl2.fcs;YES;NO;B;48 h;SGPI;2
+t1_A_A-B_SGPI_repl3.fcs;YES;NO;B;48 h;SGPI;3
+t1_A_A-B_SG_repl1.fcs;YES;NO;B;48 h;SG;1
+t1_A_A-B_SG_repl2.fcs;YES;NO;B;48 h;SG;2
+t1_A_A-B_SG_repl3.fcs;YES;NO;B;48 h;SG;3
+t1_A_A-fresh_SGPI_repl1.fcs;YES;NO;fresh medium;48 h;SGPI;1
+t1_A_A-fresh_SGPI_repl2.fcs;YES;NO;fresh medium;48 h;SGPI;2
+t1_A_A-fresh_SGPI_repl3.fcs;YES;NO;fresh medium;48 h;SGPI;3
+t1_A_A-fresh_SG_repl1.fcs;YES;NO;fresh medium;48 h;SG;1
+t1_A_A-fresh_SG_repl2.fcs;YES;NO;fresh medium;48 h;SG;2
+t1_A_A-fresh_SG_repl3.fcs;YES;NO;fresh medium;48 h;SG;3
+t1_AB_AB-fresh_SGPI_repl1.fcs;YES;YES;fresh medium;48 h;SGPI;1
+t1_AB_AB-fresh_SGPI_repl2.fcs;YES;YES;fresh medium;48 h;SGPI;2
+t1_AB_AB-fresh_SGPI_repl3.fcs;YES;YES;fresh medium;48 h;SGPI;3
+t1_AB_AB-fresh_SG_repl1.fcs;YES;YES;fresh medium;48 h;SG;1
+t1_AB_AB-fresh_SG_repl2.fcs;YES;YES;fresh medium;48 h;SG;2
+t1_AB_AB-fresh_SG_repl3.fcs;YES;YES;fresh medium;48 h;SG;3
+t1_B_A-B_SGPI_repl1.fcs;NO;YES;A;48 h;SGPI;1
+t1_B_A-B_SGPI_repl2.fcs;NO;YES;A;48 h;SGPI;2
+t1_B_A-B_SGPI_repl3.fcs;NO;YES;A;48 h;SGPI;3
+t1_B_A-B_SG_repl1.fcs;NO;YES;A;48 h;SG;1
+t1_B_A-B_SG_repl2.fcs;NO;YES;A;48 h;SG;2
+t1_B_A-B_SG_repl3.fcs;NO;YES;A;48 h;SG;3
+t1_B_B-fresh_SGPI_repl1.fcs;NO;YES;fresh medium;48 h;SGPI;1
+t1_B_B-fresh_SGPI_repl2.fcs;NO;YES;fresh medium;48 h;SGPI;2
+t1_B_B-fresh_SGPI_repl3.fcs;NO;YES;fresh medium;48 h;SGPI;3
+t1_B_B-fresh_SG_repl1.fcs;NO;YES;fresh medium;48 h;SG;1
+t1_B_B-fresh_SG_repl2.fcs;NO;YES;fresh medium;48 h;SG;2
+t1_B_B-fresh_SG_repl3.fcs;NO;YES;fresh medium;48 h;SG;3
+t2_A_A-B_SGPI_repl1.fcs;YES;NO;B;72 h;SGPI;1
+t2_A_A-B_SGPI_repl2.fcs;YES;NO;B;72 h;SGPI;2
+t2_A_A-B_SGPI_repl3.fcs;YES;NO;B;72 h;SGPI;3
+t2_A_A-B_SG_repl1.fcs;YES;NO;B;72 h;SG;1
+t2_A_A-B_SG_repl2.fcs;YES;NO;B;72 h;SG;2
+t2_A_A-B_SG_repl3.fcs;YES;NO;B;72 h;SG;3
+t2_A_A-fresh_SGPI_repl1.fcs;YES;NO;fresh medium;72 h;SGPI;1
+t2_A_A-fresh_SGPI_repl2.fcs;YES;NO;fresh medium;72 h;SGPI;2
+t2_A_A-fresh_SGPI_repl3.fcs;YES;NO;fresh medium;72 h;SGPI;3
+t2_A_A-fresh_SG_repl1.fcs;YES;NO;fresh medium;72 h;SG;1
+t2_A_A-fresh_SG_repl2.fcs;YES;NO;fresh medium;72 h;SG;2
+t2_A_A-fresh_SG_repl3.fcs;YES;NO;fresh medium;72 h;SG;3
+t2_AB_AB-fresh_SGPI_repl2.fcs;YES;YES;fresh medium;72 h;SGPI;2
+t2_AB_AB-fresh_SGPI_repl3.fcs;YES;YES;fresh medium;72 h;SGPI;3
+t2_AB_AB-fresh_SG_repl1.fcs;YES;YES;fresh medium;72 h;SG;1
+t2_AB_AB-fresh_SG_repl2.fcs;YES;YES;fresh medium;72 h;SG;2
+t2_AB_AB-fresh_SG_repl3.fcs;YES;YES;fresh medium;72 h;SG;3
+t2_B_A-B_SGPI_repl1.fcs;NO;YES;A;72 h;SGPI;1
+t2_B_A-B_SGPI_repl2.fcs;NO;YES;A;72 h;SGPI;2
+t2_B_A-B_SGPI_repl3.fcs;NO;YES;A;72 h;SGPI;3
+t2_B_A-B_SG_repl1.fcs;NO;YES;A;72 h;SG;1
+t2_B_A-B_SG_repl2.fcs;NO;YES;A;72 h;SG;2
+t2_B_A-B_SG_repl3.fcs;NO;YES;A;72 h;SG;3
+t2_B_B-fresh_SGPI_repl1.fcs;NO;YES;fresh medium;72 h;SGPI;1
+t2_B_B-fresh_SGPI_repl2.fcs;NO;YES;fresh medium;72 h;SGPI;2
+t2_B_B-fresh_SGPI_repl3.fcs;NO;YES;fresh medium;72 h;SGPI;3
+t2_B_B-fresh_SG_repl1.fcs;NO;YES;fresh medium;72 h;SG;1
+t2_B_B-fresh_SG_repl2.fcs;NO;YES;fresh medium;72 h;SG;2
+t2_B_B-fresh_SG_repl3.fcs;NO;YES;fresh medium;72 h;SG;3

@@ -1,0 +1,213 @@
+Sample;Pres_A;Pres_B;Treatment;MeasurementOrder
+A_A-B_repl1_062_Spec.Data 1 112.spc;YES;NO;P;1
+A_A-B_repl1_063_Spec.Data 1 113.spc;YES;NO;P;2
+A_A-B_repl1_064_Spec.Data 1 114.spc;YES;NO;P;3
+A_A-B_repl1_065_Spec.Data 1 115.spc;YES;NO;P;4
+A_A-B_repl1_066_Spec.Data 1 116.spc;YES;NO;P;5
+A_A-B_repl1_067_Spec.Data 1 117.spc;YES;NO;P;6
+A_A-B_repl1_069_Spec.Data 1 118.spc;YES;NO;P;7
+A_A-B_repl1_070_Spec.Data 1 119.spc;YES;NO;P;8
+A_A-B_repl1_071_Spec.Data 1 120.spc;YES;NO;P;9
+A_A-B_repl1_072_Spec.Data 1 121.spc;YES;NO;P;10
+A_A-B_repl1_073_Spec.Data 1 122.spc;YES;NO;P;11
+A_A-B_repl1_074_Spec.Data 1 123.spc;YES;NO;P;12
+A_A-B_repl1_075_Spec.Data 1 124.spc;YES;NO;P;13
+A_A-B_repl1_077_Spec.Data 1 125.spc;YES;NO;P;14
+A_A-B_repl1_078_Spec.Data 1 126.spc;YES;NO;P;15
+A_A-B_repl1_079_Spec.Data 1 127.spc;YES;NO;P;16
+A_A-B_repl1_080_Spec.Data 1 128.spc;YES;NO;P;17
+A_A-B_repl1_081_Spec.Data 1 129.spc;YES;NO;P;18
+A_A-B_repl1_082_Spec.Data 1 130.spc;YES;NO;P;19
+A_A-B_repl1_083_Spec.Data 1 131.spc;YES;NO;P;20
+A_A-B_repl1_084_Spec.Data 1 132.spc;YES;NO;P;21
+A_A-B_repl1_085_Spec.Data 1 133.spc;YES;NO;P;22
+A_A-B_repl1_087_Spec.Data 1 134.spc;YES;NO;P;23
+A_A-B_repl1_088_Spec.Data 1 135.spc;YES;NO;P;24
+A_A-B_repl1_089_Spec.Data 1 136.spc;YES;NO;P;25
+A_A-B_repl1_090_Spec.Data 1 137.spc;YES;NO;P;26
+A_A-B_repl1_091_Spec.Data 1 138.spc;YES;NO;P;27
+A_A-B_repl1_092_Spec.Data 1 139.spc;YES;NO;P;28
+A_A-B_repl1_093_Spec.Data 1 140.spc;YES;NO;P;29
+A_A-B_repl1_094_Spec.Data 1 141.spc;YES;NO;P;30
+A_A-B_repl1_095_Spec.Data 1 142.spc;YES;NO;P;31
+A_A-B_repl1_096_Spec.Data 1 143.spc;YES;NO;P;32
+A_A-B_repl1_097_Spec.Data 1 144.spc;YES;NO;P;33
+A_A-B_repl1_098_Spec.Data 1 145.spc;YES;NO;P;34
+A_A-B_repl1_099_Spec.Data 1 146.spc;YES;NO;P;35
+A_A-B_repl1_100_Spec.Data 1 147.spc;YES;NO;P;36
+A_A-B_repl1_101_Spec.Data 1 148.spc;YES;NO;P;37
+A_A-B_repl1_102_Spec.Data 1 149.spc;YES;NO;P;38
+A_A-B_repl1_103_Spec.Data 1 150.spc;YES;NO;P;39
+A_A-B_repl1_104_Spec.Data 1 151.spc;YES;NO;P;40
+A_A-B_repl1_105_Spec.Data 1 152.spc;YES;NO;P;41
+A_A-B_repl1_106_Spec.Data 1 153.spc;YES;NO;P;42
+A_A-B_repl1_107_Spec.Data 1 154.spc;YES;NO;P;43
+A_A-B_repl1_108_Spec.Data 1 155.spc;YES;NO;P;44
+A_A-B_repl1_109_Spec.Data 1 156.spc;YES;NO;P;45
+A_A-B_repl1_110_Spec.Data 1 157.spc;YES;NO;P;46
+A_A-B_repl1_111_Spec.Data 1 158.spc;YES;NO;P;47
+A_A-B_repl1_112_Spec.Data 1 159.spc;YES;NO;P;48
+A_A-B_repl1_114_Spec.Data 1 160.spc;YES;NO;P;49
+A_A-B_repl1_115_Spec.Data 1 161.spc;YES;NO;P;50
+A_A-B_repl1_116_Spec.Data 1 162.spc;YES;NO;P;51
+A_A-B_repl1_117_Spec.Data 1 163.spc;YES;NO;P;52
+A_A-fresh_repl1_002_Spec.Data 1 001.spc;YES;NO;fresh medium;1
+A_A-fresh_repl1_003_Spec.Data 1 002.spc;YES;NO;fresh medium;2
+A_A-fresh_repl1_004_Spec.Data 1 003.spc;YES;NO;fresh medium;3
+A_A-fresh_repl1_005_Spec.Data 1 004.spc;YES;NO;fresh medium;4
+A_A-fresh_repl1_006_Spec.Data 1 005.spc;YES;NO;fresh medium;5
+A_A-fresh_repl1_007_Spec.Data 1 006.spc;YES;NO;fresh medium;6
+A_A-fresh_repl1_008_Spec.Data 1 007.spc;YES;NO;fresh medium;7
+A_A-fresh_repl1_009_Spec.Data 1 008.spc;YES;NO;fresh medium;8
+A_A-fresh_repl1_010_Spec.Data 1 009.spc;YES;NO;fresh medium;9
+A_A-fresh_repl1_011_Spec.Data 1 010.spc;YES;NO;fresh medium;10
+A_A-fresh_repl1_012_Spec.Data 1 011.spc;YES;NO;fresh medium;11
+A_A-fresh_repl1_013_Spec.Data 1 012.spc;YES;NO;fresh medium;12
+A_A-fresh_repl1_014_Spec.Data 1 013.spc;YES;NO;fresh medium;13
+A_A-fresh_repl1_015_Spec.Data 1 014.spc;YES;NO;fresh medium;14
+A_A-fresh_repl1_016_Spec.Data 1 015.spc;YES;NO;fresh medium;15
+A_A-fresh_repl1_017_Spec.Data 1 016.spc;YES;NO;fresh medium;16
+A_A-fresh_repl1_018_Spec.Data 1 017.spc;YES;NO;fresh medium;17
+A_A-fresh_repl1_019_Spec.Data 1 018.spc;YES;NO;fresh medium;18
+A_A-fresh_repl1_020_Spec.Data 1 019.spc;YES;NO;fresh medium;19
+A_A-fresh_repl1_021_Spec.Data 1 020.spc;YES;NO;fresh medium;20
+A_A-fresh_repl1_022_Spec.Data 1 021.spc;YES;NO;fresh medium;21
+A_A-fresh_repl1_023_Spec.Data 1 022.spc;YES;NO;fresh medium;22
+A_A-fresh_repl1_024_Spec.Data 1 023.spc;YES;NO;fresh medium;23
+A_A-fresh_repl1_025_Spec.Data 1 024.spc;YES;NO;fresh medium;24
+A_A-fresh_repl1_026_Spec.Data 1 025.spc;YES;NO;fresh medium;25
+A_A-fresh_repl1_027_Spec.Data 1 026.spc;YES;NO;fresh medium;26
+A_A-fresh_repl1_028_Spec.Data 1 027.spc;YES;NO;fresh medium;27
+A_A-fresh_repl1_029_Spec.Data 1 028.spc;YES;NO;fresh medium;28
+A_A-fresh_repl1_030_Spec.Data 1 029.spc;YES;NO;fresh medium;29
+A_A-fresh_repl1_031_Spec.Data 1 030.spc;YES;NO;fresh medium;30
+A_A-fresh_repl1_032_Spec.Data 1 031.spc;YES;NO;fresh medium;31
+A_A-fresh_repl1_034_Spec.Data 1 032.spc;YES;NO;fresh medium;32
+A_A-fresh_repl1_035_Spec.Data 1 033.spc;YES;NO;fresh medium;33
+A_A-fresh_repl1_036_Spec.Data 1 034.spc;YES;NO;fresh medium;34
+A_A-fresh_repl1_038_Spec.Data 1 035.spc;YES;NO;fresh medium;35
+A_A-fresh_repl1_039_Spec.Data 1 036.spc;YES;NO;fresh medium;36
+A_A-fresh_repl1_040_Spec.Data 1 037.spc;YES;NO;fresh medium;37
+A_A-fresh_repl1_041_Spec.Data 1 038.spc;YES;NO;fresh medium;38
+A_A-fresh_repl1_042_Spec.Data 1 039.spc;YES;NO;fresh medium;39
+A_A-fresh_repl1_043_Spec.Data 1 040.spc;YES;NO;fresh medium;40
+A_A-fresh_repl1_044_Spec.Data 1 041.spc;YES;NO;fresh medium;41
+A_A-fresh_repl1_045_Spec.Data 1 042.spc;YES;NO;fresh medium;42
+A_A-fresh_repl1_046_Spec.Data 1 043.spc;YES;NO;fresh medium;43
+A_A-fresh_repl1_047_Spec.Data 1 044.spc;YES;NO;fresh medium;44
+A_A-fresh_repl1_049_Spec.Data 1 045.spc;YES;NO;fresh medium;45
+A_A-fresh_repl1_050_Spec.Data 1 046.spc;YES;NO;fresh medium;46
+A_A-fresh_repl1_051_Spec.Data 1 047.spc;YES;NO;fresh medium;47
+A_A-fresh_repl1_052_Spec.Data 1 048.spc;YES;NO;fresh medium;48
+A_A-fresh_repl1_053_Spec.Data 1 049.spc;YES;NO;fresh medium;49
+A_A-fresh_repl1_054_Spec.Data 1 050.spc;YES;NO;fresh medium;50
+A_A-fresh_repl1_055_Spec.Data 1 051.spc;YES;NO;fresh medium;51
+A_A-fresh_repl1_056_Spec.Data 1 052.spc;YES;NO;fresh medium;52
+A_A-fresh_repl1_057_Spec.Data 1 053.spc;YES;NO;fresh medium;53
+A_A-fresh_repl1_059_Spec.Data 1 054.spc;YES;NO;fresh medium;54
+A_A-fresh_repl1_060_Spec.Data 1 055.spc;YES;NO;fresh medium;55
+B_AB_repl1_001_Spec.Data 1 164.spc;NO;YES;E;1
+B_AB_repl1_002_Spec.Data 1 165.spc;NO;YES;E;2
+B_AB_repl1_003_Spec.Data 1 166.spc;NO;YES;E;3
+B_AB_repl1_004_Spec.Data 1 167.spc;NO;YES;E;4
+B_AB_repl1_005_Spec.Data 1 168.spc;NO;YES;E;5
+B_AB_repl1_006_Spec.Data 1 169.spc;NO;YES;E;6
+B_AB_repl1_007_Spec.Data 1 170.spc;NO;YES;E;7
+B_AB_repl1_008_Spec.Data 1 171.spc;NO;YES;E;8
+B_AB_repl1_009_Spec.Data 1 172.spc;NO;YES;E;9
+B_AB_repl1_010_Spec.Data 1 173.spc;NO;YES;E;10
+B_AB_repl1_012_Spec.Data 1 174.spc;NO;YES;E;11
+B_AB_repl1_013_Spec.Data 1 175.spc;NO;YES;E;12
+B_AB_repl1_014_Spec.Data 1 176.spc;NO;YES;E;13
+B_AB_repl1_015_Spec.Data 1 177.spc;NO;YES;E;14
+B_AB_repl1_016_Spec.Data 1 178.spc;NO;YES;E;15
+B_AB_repl1_017_Spec.Data 1 179.spc;NO;YES;E;16
+B_AB_repl1_018_Spec.Data 1 180.spc;NO;YES;E;17
+B_AB_repl1_019_Spec.Data 1 181.spc;NO;YES;E;18
+B_AB_repl1_020_Spec.Data 1 182.spc;NO;YES;E;19
+B_AB_repl1_021_Spec.Data 1 183.spc;NO;YES;E;20
+B_AB_repl1_022_Spec.Data 1 184.spc;NO;YES;E;21
+B_AB_repl1_023_Spec.Data 1 185.spc;NO;YES;E;22
+B_AB_repl1_024_Spec.Data 1 186.spc;NO;YES;E;23
+B_AB_repl1_025_Spec.Data 1 187.spc;NO;YES;E;24
+B_AB_repl1_026_Spec.Data 1 188.spc;NO;YES;E;25
+B_AB_repl1_027_Spec.Data 1 189.spc;NO;YES;E;26
+B_AB_repl1_028_Spec.Data 1 190.spc;NO;YES;E;27
+B_AB_repl1_029_Spec.Data 1 191.spc;NO;YES;E;28
+B_AB_repl1_030_Spec.Data 1 192.spc;NO;YES;E;29
+B_AB_repl1_031_Spec.Data 1 193.spc;NO;YES;E;30
+B_AB_repl1_032_Spec.Data 1 194.spc;NO;YES;E;31
+B_AB_repl1_033_Spec.Data 1 195.spc;NO;YES;E;32
+B_AB_repl1_034_Spec.Data 1 196.spc;NO;YES;E;33
+B_AB_repl1_035_Spec.Data 1 197.spc;NO;YES;E;34
+B_AB_repl1_036_Spec.Data 1 198.spc;NO;YES;E;35
+B_AB_repl1_037_Spec.Data 1 199.spc;NO;YES;E;36
+B_AB_repl1_038_Spec.Data 1 200.spc;NO;YES;E;37
+B_AB_repl1_039_Spec.Data 1 201.spc;NO;YES;E;38
+B_AB_repl1_041_Spec.Data 1 202.spc;NO;YES;E;39
+B_AB_repl1_042_Spec.Data 1 203.spc;NO;YES;E;40
+B_AB_repl1_043_Spec.Data 1 204.spc;NO;YES;E;41
+B_AB_repl1_044_Spec.Data 1 205.spc;NO;YES;E;42
+B_AB_repl1_045_Spec.Data 1 206.spc;NO;YES;E;43
+B_AB_repl1_046_Spec.Data 1 207.spc;NO;YES;E;44
+B_AB_repl1_047_Spec.Data 1 208.spc;NO;YES;E;45
+B_AB_repl1_049_Spec.Data 1 209.spc;NO;YES;E;46
+B_AB_repl1_051_Spec.Data 1 210.spc;NO;YES;E;47
+B_AB_repl1_052_Spec.Data 1 211.spc;NO;YES;E;48
+B_AB_repl1_053_Spec.Data 1 212.spc;NO;YES;E;49
+B_AB_repl1_054_Spec.Data 1 213.spc;NO;YES;E;50
+B_AB_repl1_055_Spec.Data 1 214.spc;NO;YES;E;51
+B_B-fresh_repl1_003_Spec.Data 1 058.spc;NO;YES;fresh medium;1
+B_B-fresh_repl1_004_Spec.Data 1 059.spc;NO;YES;fresh medium;2
+B_B-fresh_repl1_005_Spec.Data 1 060.spc;NO;YES;fresh medium;3
+B_B-fresh_repl1_006_Spec.Data 1 061.spc;NO;YES;fresh medium;4
+B_B-fresh_repl1_007_Spec.Data 1 062.spc;NO;YES;fresh medium;5
+B_B-fresh_repl1_008_Spec.Data 1 063.spc;NO;YES;fresh medium;6
+B_B-fresh_repl1_009_Spec.Data 1 064.spc;NO;YES;fresh medium;7
+B_B-fresh_repl1_010_Spec.Data 1 065.spc;NO;YES;fresh medium;8
+B_B-fresh_repl1_011_Spec.Data 1 066.spc;NO;YES;fresh medium;9
+B_B-fresh_repl1_012_Spec.Data 1 067.spc;NO;YES;fresh medium;10
+B_B-fresh_repl1_013_Spec.Data 1 068.spc;NO;YES;fresh medium;11
+B_B-fresh_repl1_014_Spec.Data 1 069.spc;NO;YES;fresh medium;12
+B_B-fresh_repl1_015_Spec.Data 1 070.spc;NO;YES;fresh medium;13
+B_B-fresh_repl1_016_Spec.Data 1 071.spc;NO;YES;fresh medium;14
+B_B-fresh_repl1_017_Spec.Data 1 072.spc;NO;YES;fresh medium;15
+B_B-fresh_repl1_018_Spec.Data 1 073.spc;NO;YES;fresh medium;16
+B_B-fresh_repl1_019_Spec.Data 1 074.spc;NO;YES;fresh medium;17
+B_B-fresh_repl1_020_Spec.Data 1 075.spc;NO;YES;fresh medium;18
+B_B-fresh_repl1_021_Spec.Data 1 076.spc;NO;YES;fresh medium;19
+B_B-fresh_repl1_022_Spec.Data 1 077.spc;NO;YES;fresh medium;20
+B_B-fresh_repl1_023_Spec.Data 1 078.spc;NO;YES;fresh medium;21
+B_B-fresh_repl1_024_Spec.Data 1 079.spc;NO;YES;fresh medium;22
+B_B-fresh_repl1_025_Spec.Data 1 080.spc;NO;YES;fresh medium;23
+B_B-fresh_repl1_026_Spec.Data 1 081.spc;NO;YES;fresh medium;24
+B_B-fresh_repl1_027_Spec.Data 1 082.spc;NO;YES;fresh medium;25
+B_B-fresh_repl1_028_Spec.Data 1 083.spc;NO;YES;fresh medium;26
+B_B-fresh_repl1_029_Spec.Data 1 084.spc;NO;YES;fresh medium;27
+B_B-fresh_repl1_031_Spec.Data 1 085.spc;NO;YES;fresh medium;28
+B_B-fresh_repl1_032_Spec.Data 1 086.spc;NO;YES;fresh medium;29
+B_B-fresh_repl1_033_Spec.Data 1 087.spc;NO;YES;fresh medium;30
+B_B-fresh_repl1_034_Spec.Data 1 088.spc;NO;YES;fresh medium;31
+B_B-fresh_repl1_035_Spec.Data 1 089.spc;NO;YES;fresh medium;32
+B_B-fresh_repl1_036_Spec.Data 1 090.spc;NO;YES;fresh medium;33
+B_B-fresh_repl1_037_Spec.Data 1 091.spc;NO;YES;fresh medium;34
+B_B-fresh_repl1_038_Spec.Data 1 092.spc;NO;YES;fresh medium;35
+B_B-fresh_repl1_039_Spec.Data 1 093.spc;NO;YES;fresh medium;36
+B_B-fresh_repl1_040_Spec.Data 1 094.spc;NO;YES;fresh medium;37
+B_B-fresh_repl1_041_Spec.Data 1 095.spc;NO;YES;fresh medium;38
+B_B-fresh_repl1_042_Spec.Data 1 096.spc;NO;YES;fresh medium;39
+B_B-fresh_repl1_043_Spec.Data 1 097.spc;NO;YES;fresh medium;40
+B_B-fresh_repl1_044_Spec.Data 1 098.spc;NO;YES;fresh medium;41
+B_B-fresh_repl1_045_Spec.Data 1 099.spc;NO;YES;fresh medium;42
+B_B-fresh_repl1_046_Spec.Data 1 100.spc;NO;YES;fresh medium;43
+B_B-fresh_repl1_047_Spec.Data 1 101.spc;NO;YES;fresh medium;44
+B_B-fresh_repl1_048_Spec.Data 1 102.spc;NO;YES;fresh medium;45
+B_B-fresh_repl1_050_Spec.Data 1 103.spc;NO;YES;fresh medium;46
+B_B-fresh_repl1_051_Spec.Data 1 104.spc;NO;YES;fresh medium;47
+B_B-fresh_repl1_052_Spec.Data 1 105.spc;NO;YES;fresh medium;48
+B_B-fresh_repl1_053_Spec.Data 1 106.spc;NO;YES;fresh medium;49
+B_B-fresh_repl1_055_Spec.Data 1 107.spc;NO;YES;fresh medium;50
+B_B-fresh_repl1_056_Spec.Data 1 108.spc;NO;YES;fresh medium;51
+B_B-fresh_repl1_057_Spec.Data 1 109.spc;NO;YES;fresh medium;52
+B_B-fresh_repl1_060_Spec.Data 1 110.spc;NO;YES;fresh medium;53
+B_B-fresh_repl1_061_Spec.Data 1 111.spc;NO;YES;fresh medium;54
