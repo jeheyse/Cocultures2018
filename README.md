@@ -13,7 +13,7 @@ The final file structure should be:
 ├── bibliography.bib
 ├── CitationStyle.csl
 ├── /Data
-	├── Metadata_FCM.csv
+    ├── Metadata_FCM.csv
     ├── Metadata_Raman.csv
     ├── /FCSfiles
     └── /Ramanfiles
